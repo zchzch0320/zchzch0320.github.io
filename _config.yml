@@ -12,7 +12,7 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Chenhao Zhou"
 description              : &description "PhD student @ZJU"
-url                      : https://zchzch0320.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zchzch0320.github.io # the base hostname & protocol for your site e.g. "https://zchzch0320.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zchzch0320/zchzch0320.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "zch.png"
   name             : "Chenhao Zhou"
-  pronouns         :  example: "he/his"  
+  pronouns         :  # example: "he/his"  
   bio              : "PhD student @ZJU"
   location         : "China Hangzhou"
   employer         : "Zhejiang University"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
