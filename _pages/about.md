@@ -9,7 +9,7 @@ redirect_from:
 
 I’m **Chenhao Zhou (周晨浩)**, a PhD candidate in the College of Computer Science and Technology at **Zhejiang University**. My research focuses on reinforcement learning, particularly representation learning, constrained decision-making, and robust multi-agent learning.
 
-[Education](#education) · [Publications](#publications) · [Research Manuscripts](#research-manuscripts)
+[Education](#education) · [Publications](#publications)
 
 ## Education
 
@@ -28,15 +28,13 @@ I’m **Chenhao Zhou (周晨浩)**, a PhD candidate in the College of Computer S
 
 A spectral dynamic embedding approach to policy optimization in continuous-state zero-sum Markov games, with provable last-iterate convergence to an approximate Nash equilibrium.
 
-## Research Manuscripts
-
 **Primal-Dual Representation Learning for Low-Rank Constrained MDPs**  
-First-author research manuscript, 2026.
+First author. *NeurIPS, 2026 (accepted).*
 
 Primal-dual representation learning for low-rank constrained MDPs with unknown transition features, combining exploration and representation learning with regret and constraint-violation guarantees.
 
 **Toward Online Robust Zero-Sum Markov Games with Function Approximation**  
-First-author research manuscript, 2026.
+First author. *NeurIPS, 2026 (accepted).*
 
 Online learning in robust zero-sum Markov games using function approximation, with an optimistic dual robust Bellman framework and regret analysis.
 
