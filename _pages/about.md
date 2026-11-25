@@ -29,7 +29,8 @@ Before joining Zhejiang University in 2022, I completed my undergraduate studies
 ## Internship
 
 **Huawei** · LLM Inference and Storage Optimization Intern  
-**Jun.–Sep. 2026 · 3 months**
+**Jun.–Sep. 2026**  
+Awarded **Outstanding Intern**.
 
 Worked on lossless KV cache compression and resource modeling for large language model inference, with a focus on memory capacity, bandwidth, and data placement across heterogeneous memory and storage tiers.
 
