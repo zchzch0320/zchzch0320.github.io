@@ -26,6 +26,13 @@ Before joining Zhejiang University in 2022, I completed my undergraduate studies
 - **Nanjing University of Aeronautics and Astronautics**, School of Mathematics  
   Undergraduate studies, **2018–2022**.
 
+## Internship
+
+**Huawei** · LLM Inference and Storage Optimization Intern  
+**Jun.–Sep. 2026 · 3 months**
+
+Worked on lossless KV cache compression and resource modeling for large language model inference, with a focus on memory capacity, bandwidth, and data placement across heterogeneous memory and storage tiers.
+
 ## Publications
 
 **Primal-Dual Representation Learning for Low-Rank Constrained MDPs**  
